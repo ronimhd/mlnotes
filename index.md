@@ -1,7 +1,7 @@
 ## Hello Machine Learning notes
 # section 1
 
-This is my first content
+This is my first content...
 
 ```python
 import numpy as np  
